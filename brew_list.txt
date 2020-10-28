@@ -1,0 +1,21 @@
+brew install mas
+brew install git
+brew install vim
+brew install jq
+brew cask install google-chrome
+brew cask install google-drive-stream
+brew cask install google-japanese-ime
+brew cask install slack
+brew cask install discord
+brew cask install zoomus
+brew cask install mi
+brew cask install iterm2
+brew cask install docker
+brew cask install homebrew/cask-fonts/font-ricty-Giminished
+brew cask install pycharm-ce
+brew cask install visual-studio-code
+brew cask install intellij-idea-ce
+brew cask install sourcetree
+brew cask install insomnia
+brew cask install libreoffice
+mas install 4858127211
